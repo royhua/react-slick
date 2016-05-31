@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-low",
   "version": "0.12.2",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -9,11 +9,11 @@
     "test": "karma start --single-run",
     "dev-test": "karma start"
   },
-  "author": "Kiran Abburi",
+  "author": "roy.luo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/royhua/react-slick"
   },
   "keywords": [
     "slick",
@@ -58,7 +58,6 @@
     "postcss-loader": "^0.9.1",
     "react": "^15.1.0",
     "react-addons-test-utils": "^15.1.0",
-    "react-dom": "^15.1.0",
     "run-sequence": "^1.2.1",
     "sass-loader": "^3.2.0",
     "should": "^8.4.0",
@@ -75,10 +74,6 @@
     "react-responsive-mixin": "^0.3.5",
     "slick-carousel": "^1.6.0"
   },
-  "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.1",
-    "react-dom": "^0.14.0 || ^15.0.1"
-  },
   "npmName": "react-slick",
   "npmFileMap": [
     {
@@ -89,7 +84,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/royhua/react-slick/issues"
   },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/royhua/react-slick"
 }
