@@ -1,6 +1,6 @@
 {
   "name": "react-slick-low",
-  "version": "0.12.4",
+  "version": "0.12.5",
   "description": " React port of slick carousel",
   "main": "./lib",
   "scripts": {
@@ -46,15 +46,7 @@
     "gulp-sass": "^2.3.1",
     "jasmine-core": "^2.4.1",
     "json-loader": "^0.5.4",
-    "karma": "^0.13",
-    "karma-babel-preprocessor": "^6.0.1",
-    "karma-chrome-launcher": "^1.0.1",
-    "karma-jasmine": "^1.0.2",
-    "karma-phantomjs-launcher": "^1.0.0",
-    "karma-webpack": "^1.7.0",
-    "mocha": "^2.5.3",
     "node-sass": "^3.7.0",
-    "phantomjs": "^2.1.7",
     "postcss-loader": "^0.9.1",
     "react": "^0.13.2",
     "react-addons-test-utils": "^15.1.0",
@@ -70,7 +62,6 @@
     "classnames": "^2.2.5",
     "json2mq": "^0.2.0",
     "object-assign": "^4.1.0",
-    "phantomjs-prebuilt": "^2.1.7",
     "react-responsive-mixin": "^0.3.5",
     "slick-carousel": "^1.6.0"
   },
